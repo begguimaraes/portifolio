@@ -54,7 +54,7 @@ function projetos(section) {
               alt="Imagem da tela inicial do site de links."
             />
             <div class="buttons">
-              <a href="https://github.com/begguimaraes/Site-links" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/begguimaraes/links-dev" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="calculadora-pi-steel.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://calculadora-pi-steel.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -144,7 +144,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="technologywithtraduction.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://technologywithtraduction.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,7 +181,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="historyhunters.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://historyhuntershh.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
