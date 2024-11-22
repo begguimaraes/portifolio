@@ -89,11 +89,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>alculadora Funcional</h3>
+          <h3>Calculadora Funcional</h3>
           <div class="img-wrapper">
-            <img src="assests/images/projects/calculadora.png" alt="Imagem do projeto." />
+            <img src="assets/images/projects/calculadora.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/begguimaraes/calculadora.png" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/begguimaraes/calculadora" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
